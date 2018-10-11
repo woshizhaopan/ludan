@@ -38,4 +38,3 @@
      <option value=""><?php echo str_repeat('——',$value['le']).$value['type_name']?></option>
      <?php } ?>
 </select>
-老李
